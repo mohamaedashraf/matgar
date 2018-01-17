@@ -1,0 +1,46 @@
+/* CSS Document */
+body,td,th {
+	font-size: 14px;
+	color: #333;
+}
+body {
+	background-color: #fff;
+}
+a {
+	font-size: 14px;
+	color: #03f;
+	text-decoration: none;
+
+}
+a:visited {
+	color: #03f;
+    text-decoration: none;
+
+}
+a:hover {
+	color: #000;
+	text-decoration: none;
+
+}
+a:active {
+	color: #03f;
+	text-decoration: none;
+
+}
+#PageHeader{
+	border:#999 solid 1px;
+	width:900px;
+	background:#f4f4f4;
+	border-bottom:none;
+}
+#PageContent{
+	border:#999 solid 1px;
+	width:900px;
+	background:#f4f4f4;
+	border-bottom:none;	
+}
+#PageFooter{
+	border:#999 solid 1px;
+	width:900px;
+	background:#f4f4f4;		
+}
